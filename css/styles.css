@@ -23,7 +23,7 @@ body{
 p{
     font-size: 20px;
     font-family: cursive;
-    color: black;
+    color: blue
 }
 #head2{
     margin-left: 650px;
@@ -140,8 +140,5 @@ input{
   p:hover{
       text-decoration: underline;
     
-  }
-  #di{ 
-    /* display: inline-block;
   }
   
